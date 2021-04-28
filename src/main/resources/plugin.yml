@@ -1,0 +1,8 @@
+name: Valknet
+version: ${project.version}
+main: me.honkling.valknet.Valknet
+api-version: 1.16
+prefix: ValkNet
+load: STARTUP
+authors: [ honkling ]
+description: A "server host" using worlds.
